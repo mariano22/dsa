@@ -1,4 +1,7 @@
-
+"""
+Used in:
+    - https://leetcode.com/problems/largest-component-size-by-common-factor/
+"""
 import math
 import random
 from collections import Counter
